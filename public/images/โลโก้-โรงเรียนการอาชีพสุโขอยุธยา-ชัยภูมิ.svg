@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="โรงเรียนการอาชีพสุโขอยุธยาชัยภูมิ">
+  <circle cx="100" cy="100" r="96" fill="#7A1F2B"/>
+  <circle cx="100" cy="100" r="84" fill="none" stroke="#C9962B" stroke-width="3"/>
+  <path d="M100 52c-10 14-14 26-14 36 0 9 6 16 14 20 8-4 14-11 14-20 0-10-4-22-14-36z" fill="#C9962B"/>
+  <path d="M100 108c-16 0-30-8-38-22 14 0 26 4 34 12M100 108c16 0 30-8 38-22-14 0-26 4-34 12" fill="none" stroke="#C9962B" stroke-width="5" stroke-linecap="round"/>
+  <text x="100" y="138" text-anchor="middle" font-family="Prompt, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF">สุโขอยุธยา</text>
+  <text x="100" y="160" text-anchor="middle" font-family="Prompt, sans-serif" font-size="14" fill="#F8EBCB">ชัยภูมิ</text>
+</svg>

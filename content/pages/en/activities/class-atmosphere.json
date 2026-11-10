@@ -1,0 +1,256 @@
+{
+ "route": "/en/activities/class-atmosphere/",
+ "lang": "en",
+ "bodyAttrs": [],
+ "head": [
+  {
+   "tag": "title",
+   "attrs": [],
+   "html": "Classroom Atmosphere in Chaiyaphum | Sukhoayothaya Vocational School Chaiyaphum"
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "description"
+    ],
+    [
+     "content",
+     "Photos of students and teachers in class at Sukhoayothaya Vocational School Chaiyaphum"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "robots"
+    ],
+    [
+     "content",
+     "noindex, nofollow"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:locale"
+    ],
+    [
+     "content",
+     "en_US"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:type"
+    ],
+    [
+     "content",
+     "website"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:title"
+    ],
+    [
+     "content",
+     "Learning atmosphere in Chaiyaphum"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:description"
+    ],
+    [
+     "content",
+     "Photos of students and teachers in class at Sukhoayothaya Vocational School Chaiyaphum"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:site_name"
+    ],
+    [
+     "content",
+     "SUKHOAYOTHAYA"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "property",
+     "og:image"
+    ],
+    [
+     "content",
+     "/images/บรรยากาศห้องเรียน-โรงเรียนการอาชีพสุโขอยุธยา-ชัยภูมิ.jpg"
+    ]
+   ]
+  },
+  {
+   "tag": "meta",
+   "attrs": [
+    [
+     "name",
+     "twitter:card"
+    ],
+    [
+     "content",
+     "summary_large_image"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/favicon.ico"
+    ],
+    [
+     "sizes",
+     "48x48"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "icon"
+    ],
+    [
+     "href",
+     "/images/โลโก้-โรงเรียนการอาชีพสุโขอโยธยา-ชัยภูมิ.png"
+    ],
+    [
+     "type",
+     "image/png"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "apple-touch-icon"
+    ],
+    [
+     "href",
+     "/apple-touch-icon.png"
+    ]
+   ]
+  },
+  {
+   "tag": "script",
+   "attrs": [
+    [
+     "type",
+     "application/ld+json"
+    ]
+   ],
+   "html": "\n  {\"@context\":\"https://schema.org\",\"@type\":\"EducationalOrganization\",\"name\":\"โรงเรียนการอาชีพสุโขอยุธยาชัยภูมิ\",\"telephone\":\"+66643149999\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"จังหวัดชัยภูมิ (รอยืนยันที่อยู่)\",\"addressCountry\":\"TH\"},\"image\":\"/images/บรรยากาศห้องเรียน-โรงเรียนการอาชีพสุโขอยุธยา-ชัยภูมิ.jpg\",\"logo\":\"/images/โลโก้-โรงเรียนการอาชีพสุโขอยุธยา-ชัยภูมิ.svg\",\"parentOrganization\":{\"@type\":\"Organization\",\"name\":\"SUKHOAYOTHAYA\",\"url\":\"https://sukhoayothaya.com/\"}}\n  "
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.googleapis.com"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "preconnect"
+    ],
+    [
+     "href",
+     "https://fonts.gstatic.com"
+    ],
+    [
+     "crossorigin",
+     ""
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "href",
+     "https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=Prompt:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=Sarabun:wght@300;400;500;600&display=swap"
+    ],
+    [
+     "rel",
+     "stylesheet"
+    ]
+   ]
+  },
+  {
+   "tag": "link",
+   "attrs": [
+    [
+     "rel",
+     "stylesheet"
+    ],
+    [
+     "href",
+     "/style.css"
+    ]
+   ]
+  }
+ ],
+ "before": "\n\n  <!-- =========================================================================\n       1. NAVBAR\n       ========================================================================= -->\n  ",
+ "actives": [
+  [
+   "/en/activities/",
+   "nav-item"
+  ]
+ ],
+ "switch": {
+  "th": "/activities/class-atmosphere/",
+  "en": "/en/activities/class-atmosphere/"
+ },
+ "header": "header-en",
+ "footer": "footer-en",
+ "tail": "tail-en"
+}
